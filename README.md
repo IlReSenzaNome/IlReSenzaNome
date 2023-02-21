@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es IlReSenzaNome 👋
+# ![https://github.com/IlReSenzaNome](https://github.com/IlReSenzaNome/IlReSenzaNome/blob/main/IlReSenzaNome_Emote.png) Hola, mi nombre es IlReSenzaNome 👋
 ### Mechatronic student In The Instituto Central Tecnico
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
